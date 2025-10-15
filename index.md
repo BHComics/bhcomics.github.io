@@ -29,5 +29,5 @@ Stay tuned as we release new stories, scientific notes, and behind-the-scenes co
 
 📬 Contact us: [blackholecomicproject@gmail.com](mailto:blackholecomicproject@gmail.com)
 <p align="center">
-  <img src="images/Carlsberg-Mindelegat-Green-RGB-DK" alt="Carlsberg logo" width="200">
+  <img src="images/Carlsberg-Mindelegat-Green-RGB-DK.png" alt="Carlsberg logo" width="200">
 </p>
