@@ -3,13 +3,15 @@ layout: default
 title: Explaining Black Holes - A public outreach comics project
 ---
 
-# 🕳️ BH Comics
-
 **Exploring black holes through art and science**
 
-Welcome to the **BH Comics** initiative — a collaboration between scientists and artists to communicate the fascinating world of black hole physics through visual storytelling.
+<p align="center">
+  <img src="images/IMG_1130.png" alt="BH Comics" width="200">
+</p>
 
-Our mission is to make complex ideas from **relativity, gravitational waves, and cosmology** accessible to everyone through engaging comics and illustrations.
+Welcome to the **Black Holes Comics** initiative — a collaboration between scientists and artists to communicate the fascinating world of black hole physics through visual storytelling.
+
+We will make the fascinating ideas from **general relativity, black holes and gravitational waves** accessible to everyone through engaging comics and illustrations.
 
 ## 🚀 Featured Projects
 
