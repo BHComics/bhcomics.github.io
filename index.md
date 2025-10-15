@@ -5,9 +5,7 @@ title: Explaining Black Holes<br>A public outreach comics project
 
 **Exploring black holes through art and science**
 
-<p align="center">
-  <img src="images/IMG_1130.png" alt="BH Comics" width="200">
-</p>
+
 
 Welcome to the **Black Holes Comics** initiative — a collaboration between scientists and artists to communicate the fascinating world of black hole physics through visual storytelling.
 
@@ -28,6 +26,9 @@ Stay tuned as we release new stories, scientific notes, and behind-the-scenes co
 - [Example code project](https://github.com/bhcomics/SdS_QNM)
 
 📬 Contact us: [blackholecomicproject@gmail.com](mailto:blackholecomicproject@gmail.com)
+<p align="center">
+  <img src="images/IMG_1130.png" alt="BH Comics" width="200">
+</p>
 <p align="center">
   <img src="images/Carlsberg-Mindelegat-Green-RGB-DK.png" alt="Carlsberg logo" width="200">
 </p>
