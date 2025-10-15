@@ -27,9 +27,9 @@ There are several videos in YouTube covering the topic. A particular intersting 
 - [How do we know black holes exists?](https://www.youtube.com/watch?v=sgIqRwvaBw4){:target="_blank" rel="noopener noreferrer"}
 - [Gravitational Waves](https://www.youtube.com/watch?v=YHS9g72npqA){:target="_blank" rel="noopener noreferrer"}
 
-Our "super-hero" [Physics Girl](https://www.youtube.com/@physicsgirl){:target="_blank" rel="noopener noreferrer"} also talks about [black holes](https://www.youtube.com/watch?v=SdySHadrYAA){:target="_blank" rel="noopener noreferrer"}
+Our "super-hero" [Physics Girl](https://www.youtube.com/@physicsgirl){:target="_blank" rel="noopener noreferrer"} also talks about [black holes](https://www.youtube.com/watch?v=SdySHadrYAA){:target="_blank" rel="noopener noreferrer"}.
 
-If you have ever watched Interstellar, [here you find the more technical science](https://www.youtube.com/watch?v=ABFGKdKKKyg){:target="_blank" rel="noopener noreferrer"} behind the calculations for the black holes
+If you have ever watched Interstellar, [here you find the more technical science](https://www.youtube.com/watch?v=ABFGKdKKKyg){:target="_blank" rel="noopener noreferrer"} behind the calculations for the black holes.
 
 The Royal Institute of Great Britan has also a [series on black holes](https://www.rigb.org/explore-science/explore/blog/11-mind-blowing-talks-about-black-holes){:target="_blank" rel="noopener noreferrer"} (more on their [YouTube Channel](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR){:target="_blank" rel="noopener noreferrer"} with experts interviews (many of them colleagues of ours). For instance, the nobel prize Roger Penrose talks about [black holes, geometry and his friendship with Maurits Cornelis Escher](https://www.youtube.com/watch?v=sYRti8ZU5s8&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=13){:target="_blank" rel="noopener noreferrer"}.
 
@@ -53,7 +53,7 @@ ArXiv is an online repository where make our peer-reviewed work public. Here you
 - [Rodrigo Panosso Macedo publications](https://arxiv.org/search/?searchtype=author&query=Macedo%2C+R+P){:target="_blank" rel="noopener noreferrer"}
 - [Jose Maria Ezquiagas publications](https://arxiv.org/search/?searchtype=author&query=Ezquiaga%2C+J+M){:target="_blank" rel="noopener noreferrer"}
 
-Of course, these papers are super dense, but [astrobites](https://astrobites.org){:target="_blank" rel="noopener noreferrer"} tries to digest them for undergraduate students in the physical sciences. For instance, one work from José is discussed (here)[https://astrobites.org/2023/04/11/gravitational-waves-a-la-general-relativity-or-scrambled/]{:target="_blank" rel="noopener noreferrer"}
+Of course, these papers are super dense, but [astrobites](https://astrobites.org){:target="_blank" rel="noopener noreferrer"} tries to digest them for undergraduate students in the physical sciences. For instance, one work from José is discussed (here)[https://astrobites.org/2023/04/11/gravitational-waves-a-la-general-relativity-or-scrambled/]{:target="_blank" rel="noopener noreferrer"}.
 
 📬 Contact us: [blackholecomicproject@gmail.com](mailto:blackholecomicproject@gmail.com)
 
