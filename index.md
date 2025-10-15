@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explaining Black Holes: A public outreach comics project
+title: Explaining Black Holes - A public outreach comics project
 ---
 
 # 🕳️ BH Comics
