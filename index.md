@@ -7,7 +7,7 @@ title: Explaining Black Holes<br>A public outreach comics project
 
 Welcome to the **Black Holes Comics** initiative — a collaboration between scientists and artists to communicate the fascinating world of black hole physics through visual storytelling.
 
-We will make the fascinating ideas from **general relativity, black holes and gravitational waves** accessible to everyone through engaging comics and illustrations. Here you will find suggestions of external material for the project.
+Here you will find suggestions of external material for the project.
 
 <p align="center">
   <img src="images/IMG_1130.png" alt="BH Comics" width="200">
@@ -17,11 +17,11 @@ We will make the fascinating ideas from **general relativity, black holes and gr
 </p>
 
 ## YouTube Channels
-There are several videos in YouTube covering the topic. A particular intersting Channel is [Minute Physics](https://www.youtube.com/@MinutePhysics)
+There are several videos in YouTube covering the topic. A particular intersting Channel is [Minute Physics](https://www.youtube.com/@MinutePhysics). For example, take a look at those short vides
 
-- [**The Event Horizon**](#) — A comic journey into the edge of spacetime  
-- [**Waves in the Dark**](#) — Visualizing gravitational waves  
-- [**Behind the Equations**](#) — How science meets art in the studio  
+- [**What is gravity?**](https://www.youtube.com/watch?v=p_o4aY7xkXg)
+- [**How do we know black holes exists?**](https://www.youtube.com/watch?v=sgIqRwvaBw4)
+- [**The death of stars**](https://www.youtube.com/watch?v=NucdlR9EGbA)
 
 Stay tuned as we release new stories, scientific notes, and behind-the-scenes content.
 
