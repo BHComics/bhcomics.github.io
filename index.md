@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explaining Black Holes - A public outreach comics project
+title: Explaining Black Holes<br>A public outreach comics project
 ---
 
 **Exploring black holes through art and science**
@@ -28,3 +28,6 @@ Stay tuned as we release new stories, scientific notes, and behind-the-scenes co
 - [Example code project](https://github.com/bhcomics/SdS_QNM)
 
 📬 Contact us: [blackholecomicproject@gmail.com](mailto:blackholecomicproject@gmail.com)
+<p align="center">
+  <img src="images/Carlsberg-Mindelegat-Green-RGB-DK" alt="Carlsberg logo" width="200">
+</p>
