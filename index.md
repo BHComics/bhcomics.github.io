@@ -25,4 +25,4 @@ Stay tuned as we release new stories, scientific notes, and behind-the-scenes co
 - [BHComics organization on GitHub](https://github.com/bhcomics)
 - [Example code project](https://github.com/bhcomics/SdS_QNM)
 
-📬 Contact us: [info@bhcomics.org](mailto:info@bhcomics.org)
+📬 Contact us: [blackholecomicproject@gmail.com](mailto:blackholecomicproject@gmail.com)
