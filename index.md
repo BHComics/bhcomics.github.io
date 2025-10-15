@@ -57,7 +57,7 @@ ArXiv is an online repository where make our peer-reviewed work public. Here you
 - [Rodrigo Panosso Macedo publications](https://arxiv.org/search/?searchtype=author&query=Macedo%2C+R+P){:target="_blank" rel="noopener noreferrer"}
 - [Jose Maria Ezquiagas publications](https://arxiv.org/search/?searchtype=author&query=Ezquiaga%2C+J+M){:target="_blank" rel="noopener noreferrer"}
 
-Of course, these papers are super dense, but [astrobites](https://astrobites.org){:target="_blank" rel="noopener noreferrer"} tries to digest them for undergraduate students in the physical sciences. For instance, one work from José is discussed (here)[https://astrobites.org/2023/04/11/gravitational-waves-a-la-general-relativity-or-scrambled/]{:target="_blank" rel="noopener noreferrer"}.
+Of course, these papers are super dense, but [astrobites](https://astrobites.org){:target="_blank" rel="noopener noreferrer"} tries to digest them for undergraduate students in the physical sciences. For instance, one work from José is discussed [here](https://astrobites.org/2023/04/11/gravitational-waves-a-la-general-relativity-or-scrambled/){:target="_blank" rel="noopener noreferrer"}.
 
 📬 Contact us: [blackholecomicproject@gmail.com](mailto:blackholecomicproject@gmail.com)
 
