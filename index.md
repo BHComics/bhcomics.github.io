@@ -32,7 +32,7 @@ Another particular intersting Channel is [Minute Physics](https://www.youtube.co
 - [How do we know black holes exists?](https://www.youtube.com/watch?v=sgIqRwvaBw4){:target="_blank" rel="noopener noreferrer"}
 - [Gravitational Waves](https://www.youtube.com/watch?v=YHS9g72npqA){:target="_blank" rel="noopener noreferrer"}
 
-And just for fun, how about consider their taken time travelling?
+And just for fun, how about considering their taken time travelling?
 - [Time travel in science ficitons](https://www.youtube.com/watch?v=d3zTfXvYZ9s){:target="_blank" rel="noopener noreferrer"}
 - [Time travel paradoxes](https://www.youtube.com/watch?v=XayNKY944lY){:target="_blank" rel="noopener noreferrer"}
 
