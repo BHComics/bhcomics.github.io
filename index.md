@@ -17,7 +17,12 @@ Here you will find suggestions of external material for the project.
 </p>
 
 ## YouTube Channels
-There are several videos in YouTube covering the topic. A particular intersting Channel is [Minute Physics](https://www.youtube.com/@MinutePhysics). For example, take a look at those short videos
+
+The Royal Institute of Great Britan has a [series on black holes](https://www.rigb.org/explore-science/explore/blog/11-mind-blowing-talks-about-black-holes){:target="_blank" rel="noopener noreferrer"} (more on their [YouTube Channel](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR){:target="_blank" rel="noopener noreferrer"} with experts interviews (many of them colleagues of ours). For instance, 
+- [The amazing talk by our friend Katy Clough](https://www.youtube.com/watch?v=n4RbkTCp16k&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=1){:target="_blank" rel="noopener noreferrer"} <span style="color:red; font-weight:bold;">(Highly recommended!!!)</span>
+- [The nobel prize Roger Penrose talks about black holes, geometry and Maurits C. Escher](https://www.youtube.com/watch?v=sYRti8ZU5s8&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=13){:target="_blank" rel="noopener noreferrer"}.
+
+Another particular intersting Channel is [Minute Physics](https://www.youtube.com/@MinutePhysics). For example, take a look at those short videos
 
 - [What is gravity?](https://www.youtube.com/watch?v=p_o4aY7xkXg){:target="_blank" rel="noopener noreferrer"}
 - [Intro Course on Special Relativity](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm){:target="_blank" rel="noopener noreferrer"}
@@ -34,12 +39,6 @@ And just for fun, how about consider their taken time travelling?
 Our "super-hero" [Physics Girl](https://www.youtube.com/@physicsgirl){:target="_blank" rel="noopener noreferrer"} also talks about [black holes](https://www.youtube.com/watch?v=SdySHadrYAA){:target="_blank" rel="noopener noreferrer"}.
 
 If you have ever watched Interstellar, [here you find the more technical science](https://www.youtube.com/watch?v=ABFGKdKKKyg){:target="_blank" rel="noopener noreferrer"} behind the calculations for the black holes.
-
-The Royal Institute of Great Britan has also a [series on black holes](https://www.rigb.org/explore-science/explore/blog/11-mind-blowing-talks-about-black-holes){:target="_blank" rel="noopener noreferrer"} (more on their [YouTube Channel](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR){:target="_blank" rel="noopener noreferrer"} with experts interviews (many of them colleagues of ours). For instance, 
-- [The amazing talk by our friend Katy Clough](https://www.youtube.com/watch?v=n4RbkTCp16k&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=1){:target="_blank" rel="noopener noreferrer"} <span style="color:red; font-weight:bold;">(Highly recommended!!!)</span>
-- [The nobel prize Roger Penrose talks about black holes, geometry and Maurits C. Escher](https://www.youtube.com/watch?v=sYRti8ZU5s8&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=13){:target="_blank" rel="noopener noreferrer"}.
-
-
 
 ---
 
