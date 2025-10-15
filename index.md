@@ -18,7 +18,7 @@ Here you will find suggestions of external material for the project.
 
 ## YouTube Channels
 
-The Royal Institute of Great Britan has a [series on black holes](https://www.rigb.org/explore-science/explore/blog/11-mind-blowing-talks-about-black-holes){:target="_blank" rel="noopener noreferrer"} (more on their [YouTube Channel](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR){:target="_blank" rel="noopener noreferrer"} with experts interviews (many of them colleagues of ours). For instance, 
+The Royal Institute of Great Britan has a [series of talks and interviews with experts on black holes](https://www.rigb.org/explore-science/explore/blog/11-mind-blowing-talks-about-black-holes){:target="_blank" rel="noopener noreferrer"} (more on their [YouTube Channel](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR){:target="_blank" rel="noopener noreferrer"}). For instance, 
 - [The amazing talk by our friend Katy Clough](https://www.youtube.com/watch?v=n4RbkTCp16k&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=1){:target="_blank" rel="noopener noreferrer"} <span style="color:red; font-weight:bold;">(Highly recommended!!!)</span>
 - [The nobel prize Roger Penrose talks about black holes, geometry and Maurits C. Escher](https://www.youtube.com/watch?v=sYRti8ZU5s8&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=13){:target="_blank" rel="noopener noreferrer"}.
 
@@ -51,12 +51,12 @@ NASA's Curious Universe talks science and space adventures. For example, these e
 ---
 
 ## ArXiv
-ArXiv is an online repository where make our peer-reviewed work public. Here you find the very technical publications in the field. Do you want to check out what we are working on at the moment?
+ArXiv is an online repository where we make our peer-reviewed work public. Here you find the very technical publications in the field. Do you want to check out what we are working on at the moment?
 
 - [Rodrigo Panosso Macedo publications](https://arxiv.org/search/?searchtype=author&query=Macedo%2C+R+P){:target="_blank" rel="noopener noreferrer"}
 - [Jose Maria Ezquiagas publications](https://arxiv.org/search/?searchtype=author&query=Ezquiaga%2C+J+M){:target="_blank" rel="noopener noreferrer"}
 
-Of course, these papers are super dense, but [astrobites](https://astrobites.org){:target="_blank" rel="noopener noreferrer"} tries to digest them for undergraduate students in the physical sciences. For instance, one work from José is discussed [here](https://astrobites.org/2023/04/11/gravitational-waves-a-la-general-relativity-or-scrambled/){:target="_blank" rel="noopener noreferrer"}.
+Of course, these papers are super dense, but [astrobites](https://astrobites.org){:target="_blank" rel="noopener noreferrer"} tries to digest some of them for undergraduate students in the physical sciences. For instance, one work from José is discussed [here](https://astrobites.org/2023/04/11/gravitational-waves-a-la-general-relativity-or-scrambled/){:target="_blank" rel="noopener noreferrer"}.
 
 📬 Contact us: [blackholecomicproject@gmail.com](mailto:blackholecomicproject@gmail.com)
 
