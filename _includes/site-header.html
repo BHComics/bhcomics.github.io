@@ -1,0 +1,40 @@
+<header class="page-header" role="banner">
+  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+  <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
+  {% if site.logo %}
+  <img src="{{ site.logo }}" alt="Project Logo" style="width: 150px; margin: 15px auto;">
+  {% endif %}
+
+  <nav class="nav-links">
+    <a href="/" class="nav-button">Home</a>
+    <a href="/seminar/" class="nav-button">Seminar</a>
+    <a href="/comics/" class="nav-button">Comics</a>
+    <a href="/team/" class="nav-button">Team</a>
+    <a href="/contact/" class="nav-button">Contact</a>
+  </nav>
+</header>
+
+<style>
+.nav-links {
+  margin-top: 20px;
+}
+
+.nav-button {
+  display: inline-block;
+  padding: 8px 18px;
+  margin: 4px;
+  font-size: 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+.nav-button:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
+}
+</style>
