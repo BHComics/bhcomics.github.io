@@ -1,7 +1,7 @@
 title: BH Comics
 description: Exploring black holes through art and science
 theme: jekyll-theme-cayman
-logo: /images/Carlsberg-Mindelegat-Green-RGB-DK.png
+#  logo: /images/Carlsberg-Mindelegat-Green-RGB-DK.png
 show_downloads: false
 github:
   is_project_page: false
