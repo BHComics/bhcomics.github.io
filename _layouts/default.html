@@ -17,9 +17,7 @@
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
 
-      {% if site.logo %}
-      <img src="{{ site.logo }}" alt="Logo" style="width:150px; margin: 15px auto;">
-      {% endif %}
+      
 
       <nav class="nav-links">
         <a href="/" class="nav-button">Home</a>
@@ -56,9 +54,11 @@
       {{ content }}
     </main>
 
-    <footer class="site-footer">
-      <span class="site-footer-credits">This page is built with the Cayman theme.</span>
-    </footer>
+<footer class="site-footer">
+  {% if site.logo %}
+  <img src="{{ site.logo }}" alt="Logo" style="width:150px; margin: 15px auto;">
+  {% endif %}
+</footer>
 
   </body>
 </html>
