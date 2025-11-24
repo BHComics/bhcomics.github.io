@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Explaining Black Holes<br>A public outreach comics project
 ---
 
