@@ -57,7 +57,7 @@ title: Seminars
   <em>A brief history of black holes</em><br>
   (by Rodrigo)<br>
   <a href="slides/seminar5.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+  <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
 </div>
 
 <div class="seminar-card">
@@ -65,7 +65,7 @@ title: Seminars
   <em>How do black holes form?</em><br>
   (by José)<br>
   <a href="slides/seminar6.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+  <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
 </div>
 
 <div class="seminar-card">
@@ -73,7 +73,7 @@ title: Seminars
   <em>Geometry and curved spaces(times) - Part 1</em><br>
   (by Rodrigo)<br>
   <a href="slides/seminar7.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+  <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
 </div>
 
 <style>
