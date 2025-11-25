@@ -4,6 +4,7 @@ title: Seminars
 ---
 # 📚 Seminar Series
 **Do you want to review any of our classes?**
+
 ---
 
 <div class="seminar-card">
@@ -11,7 +12,8 @@ title: Seminars
   <em>Black Hole Pilot: project introductions</em><br>
   (by Rodrigo and José)<br>
   <a href="slides/seminar0.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+  <span style="color:#159957; text-decoration:underline; cursor:default;">🎥 Video</span>
+  <span style="color:red;">(N/A)</span>
 </div>
 
 <div class="seminar-card">
@@ -19,7 +21,8 @@ title: Seminars
   <em>What is a black hole?</em><br>
   (by Rodrigo)<br>
   <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+  <span style="color:#159957; text-decoration:underline; cursor:default;">🎥 Video</span>
+  <span style="color:red;">(N/A)</span>
 </div>
 
 <div class="seminar-card">
@@ -27,7 +30,8 @@ title: Seminars
   <em>Intro to black hole astrophysics - Part 1</em><br>
   (by José)<br>
   <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+  <span style="color:#159957; text-decoration:underline; cursor:default;">🎥 Video</span>
+  <span style="color:red;">(N/A)</span>
 </div>
 
 <div class="seminar-card">
@@ -35,7 +39,8 @@ title: Seminars
   <em>Relativity and curved spacetime</em><br>
   (by Rodrigo)<br>
   <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+  <span style="color:#159957; text-decoration:underline; cursor:default;">🎥 Video</span>
+  <span style="color:red;">(N/A)</span>
 </div>
 
 <div class="seminar-card">
