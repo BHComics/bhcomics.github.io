@@ -48,7 +48,8 @@ title: Seminars
   <em>Intro to black hole astrophysics - Part 2</em><br>
   (by José)<br>
   <a href="slides/seminar2.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+  <span style="color:#1e6bb8; cursor:default;">🎥 Video</span>
+  <span style="color:red;">(N/A)</span>
 </div>
 
 <div class="seminar-card">
