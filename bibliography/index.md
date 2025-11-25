@@ -10,7 +10,7 @@ All links open in a new tab.
 
 ---
 
-# ⭐ Black Hole & Relativity Booklist
+## ⭐ Black Hole & Relativity Booklist
 
 <div class="bib-card">
 <strong>Relativity for Babies</strong> (Chris Ferrie)  
@@ -53,7 +53,7 @@ All links open in a new tab.
 
 ---
 
-# ⭐ Science Comics & Graphic Novels
+## ⭐ Science Comics & Graphic Novels
 
 <div class="bib-card">
 <strong>Suspended in Language: Niels Bohr’s Life, Discoveries, and the Century He Shaped</strong> (Jim Ottaviani & Leland Purvis)  
@@ -131,7 +131,7 @@ All links open in a new tab.
 
 ---
 
-# ⭐ Popular Science Books
+## ⭐ Popular Science Books
 
 <div class="bib-card">
 <strong>Astrophysics for People in a Hurry</strong> (Neil deGrasse Tyson, 2017)  
