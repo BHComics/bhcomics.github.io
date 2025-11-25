@@ -47,10 +47,10 @@ title: Seminars
 
 <style>
 .seminar-card {
-  background-color: rgba(0,0,0,0.05);
-  padding: 12px 16px;
+  padding: 14px 16px;
   border-radius: 8px;
   margin-bottom: 15px;
+  border: 1px solid rgba(0,0,0,0.1); /* thin border */
 }
 .seminar-card a {
   text-decoration: none;
