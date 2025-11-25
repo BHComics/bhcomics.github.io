@@ -3,18 +3,9 @@ layout: default
 title: Online Material
 ---
 
-**Exploring black holes through art and science**
+# 📚 Online Material
 
-Welcome to the **Black Holes Comics** initiative — a collaboration between scientists and artists to communicate the fascinating world of black hole physics through visual storytelling.
-
-Here you will find suggestions of external material for the project.
-
-<p align="center">
-  <img src="images/IMG_1130.png" alt="BH Comics" width="200">
-</p>
-<p align="center">
-  <img src="images/Carlsberg-Mindelegat-Green-RGB-DK.png" alt="Carlsberg logo" width="200">
-</p>
+**Here you will find suggestions of external material for the project**
 
 ## YouTube Channels
 
@@ -57,6 +48,3 @@ ArXiv is an online repository where we make our peer-reviewed work public. Here 
 - [Jose Maria Ezquiaga publications](https://arxiv.org/search/?searchtype=author&query=Ezquiaga%2C+J+M){:target="_blank" rel="noopener noreferrer"}
 
 Of course, these papers are super dense, but [astrobites](https://astrobites.org){:target="_blank" rel="noopener noreferrer"} tries to digest some of them for undergraduate students in the physical sciences. For instance, one work from José is discussed [here](https://astrobites.org/2023/04/11/gravitational-waves-a-la-general-relativity-or-scrambled/){:target="_blank" rel="noopener noreferrer"}.
-
-📬 Contact us: [blackholecomicproject@gmail.com](mailto:blackholecomicproject@gmail.com)
-
