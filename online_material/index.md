@@ -3,18 +3,7 @@ layout: default
 title: Online Material
 ---
 
-**Exploring black holes through art and science**
-
-Welcome to the **Black Holes Comics** initiative — a collaboration between scientists and artists to communicate the fascinating world of black hole physics through visual storytelling.
-
-Here you will find suggestions of external material for the project.
-
-<p align="center">
-  <img src="images/IMG_1130.png" alt="BH Comics" width="200">
-</p>
-<p align="center">
-  <img src="images/Carlsberg-Mindelegat-Green-RGB-DK.png" alt="Carlsberg logo" width="200">
-</p>
+**Here you will find suggestions of external material for the project**
 
 ## YouTube Channels
 
