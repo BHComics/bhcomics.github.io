@@ -24,7 +24,48 @@ title: Seminars
 
 <div class="seminar-card">
   <strong>Seminar 2 — 24 Oct 2025</strong><br>
-  <em>What is a black hole?</em><br>
+  <em>Intro to black hole astrophysics - Part 1</em><br>
+  (by José)<br>
+  <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
+  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+</div>
+
+<div class="seminar-card">
+  <strong>Seminar 3 — 25 Oct 2025</strong><br>
+  <em>Relativity and curved spacetime</em><br>
+  (by Rodrigo)<br>
+  <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
+  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+</div>
+
+<div class="seminar-card">
+  <strong>Seminar 4 — 25 Oct 2025</strong><br>
+  <em>Intro to black hole astrophysics - Part 2</em><br>
+  (by José)<br>
+  <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
+  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+</div>
+
+<div class="seminar-card">
+  <strong>Seminar 5 — 13 Nov 2025</strong><br>
+  <em>A brief history of black holes</em><br>
+  (by Rodrigo)<br>
+  <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
+  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+</div>
+
+<div class="seminar-card">
+  <strong>Seminar 6 — 20 Nov 2025</strong><br>
+  <em>How do black holes form?</em><br>
+  (by José)<br>
+  <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
+  <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
+</div>
+
+<div class="seminar-card">
+  <strong>Seminar 7 — 25 Nov 2025</strong><br>
+  <em>Geometry and curved spaces(times) - Part 1</em><br>
+  (by Rodrigo)<br>
   <a href="slides/seminar1.pdf" target="_blank">📄 Slides</a> · 
   <a href="https://youtube.com/..." target="_blank">🎥 Video</a>
 </div>
