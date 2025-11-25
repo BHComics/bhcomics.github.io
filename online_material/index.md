@@ -3,6 +3,8 @@ layout: default
 title: Online Material
 ---
 
+# 📚 Online Material
+
 **Here you will find suggestions of external material for the project**
 
 ## YouTube Channels
