@@ -4,6 +4,7 @@ title: Seminars
 ---
 # 📚 Seminar Series
 **Do you want to review any of our classes?**
+You can find all available videos in <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank"> this list.</a>
 
 ---
 
