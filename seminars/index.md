@@ -65,7 +65,7 @@ title: Seminars
   <em>How do black holes form?</em><br>
   (by José)<br>
   <a href="slides/seminar6.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
+  <a href="https://www.youtube.com/watch?v=RBGDTsVynbI&list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
 </div>
 
 <div class="seminar-card">
