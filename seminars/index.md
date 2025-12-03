@@ -75,7 +75,7 @@ You can find all available videos in <a href="https://www.youtube.com/playlist?l
   <em>Geometry and curved spaces(times) - Part 1</em><br>
   (by Rodrigo)<br>
   <a href="slides/seminar7.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
+  <a href="https://www.youtube.com/watch?v=26tZX-WNK3U" target="_blank">🎥 Video</a>
 </div>
 
 <style>
