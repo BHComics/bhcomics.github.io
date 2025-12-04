@@ -81,7 +81,7 @@ You can find all available videos in <a href="https://www.youtube.com/playlist?l
 <div class="seminar-card">
   <strong>Seminar 8 — 25 Dez 2025</strong><br>
   <em>Black holes as lensing</em><br>
-  (by Rodrigo)<br>
+  (by José)<br>
   <a href="slides/seminar8.pdf" target="_blank">📄 Slides</a> · 
   <a href="https://www.youtube.com/watch?v=26tZX-WNK3U" target="_blank">🎥 Video</a>
 </div>
