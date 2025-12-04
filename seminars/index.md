@@ -5,6 +5,8 @@ title: Seminars
 # 📚 Seminar Series
 **Do you want to review any of our classes?**
 
+You can find all available videos in <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank"> this list.</a>
+
 ---
 
 <div class="seminar-card">
@@ -65,7 +67,7 @@ title: Seminars
   <em>How do black holes form?</em><br>
   (by José)<br>
   <a href="slides/seminar6.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
+  <a href="https://www.youtube.com/watch?v=RBGDTsVynbI&list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
 </div>
 
 <div class="seminar-card">
@@ -73,7 +75,7 @@ title: Seminars
   <em>Geometry and curved spaces(times) - Part 1</em><br>
   (by Rodrigo)<br>
   <a href="slides/seminar7.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://www.youtube.com/playlist?list=PLmUhhPUK1jzwn7Mw57Iw-qx3ZneMIEO8b" target="_blank">🎥 Video</a>
+  <a href="https://www.youtube.com/watch?v=26tZX-WNK3U" target="_blank">🎥 Video</a>
 </div>
 
 <style>
