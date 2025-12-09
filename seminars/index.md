@@ -83,7 +83,7 @@ You can find all available videos in <a href="https://www.youtube.com/playlist?l
   <em>Black holes as lensing</em><br>
   (by José)<br>
   <a href="slides/seminar8.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://www.youtube.com/watch?v=26tZX-WNK3U" target="_blank">🎥 Video</a>
+  <a href="https://youtu.be/7VBCyt_3KkU?si=qjXR36XSF6WDacEM" target="_blank">🎥 Video</a>
 </div>
 
 <div class="seminar-card">
@@ -91,7 +91,7 @@ You can find all available videos in <a href="https://www.youtube.com/playlist?l
   <em>Falling into a black hole</em><br>
   (by Rodrigo)<br>
   <a href="slides/seminar9.pdf" target="_blank">📄 Slides</a> · 
-  <a href="https://www.youtube.com/watch?v=26tZX-WNK3U" target="_blank">🎥 Video</a>
+  <a href="https://youtu.be/MyuDDLspkpo?si=FwOMLU7fKEA1rKyi" target="_blank">🎥 Video</a>
 </div>
 
 <style>
