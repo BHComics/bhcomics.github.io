@@ -86,6 +86,14 @@ You can find all available videos in <a href="https://www.youtube.com/playlist?l
   <a href="https://www.youtube.com/watch?v=26tZX-WNK3U" target="_blank">🎥 Video</a>
 </div>
 
+<div class="seminar-card">
+  <strong>Seminar 9 — 25 Dez 2025</strong><br>
+  <em>Falling into a black hole</em><br>
+  (by Rodrigo)<br>
+  <a href="slides/seminar9.pdf" target="_blank">📄 Slides</a> · 
+  <a href="https://www.youtube.com/watch?v=26tZX-WNK3U" target="_blank">🎥 Video</a>
+</div>
+
 <style>
 .seminar-card {
   padding: 14px 16px;
