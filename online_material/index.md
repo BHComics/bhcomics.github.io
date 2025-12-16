@@ -22,6 +22,7 @@ Another particular intersting Channel is [Minute Physics](https://www.youtube.co
 - [Black Hole tipping point](https://www.youtube.com/watch?v=brmjWYQi2UM){:target="_blank" rel="noopener noreferrer"}
 - [How do we know black holes exists?](https://www.youtube.com/watch?v=sgIqRwvaBw4){:target="_blank" rel="noopener noreferrer"}
 - [Gravitational Waves](https://www.youtube.com/watch?v=YHS9g72npqA){:target="_blank" rel="noopener noreferrer"}
+- [Black Holes and Energy](https://www.youtube.com/watch?v=t-O-Qdh7VvQ){:target="_blank" rel="noopener noreferrer"}
 
 And just for fun, how about considering their taken time travelling?
 - [Time travel in science ficitons](https://www.youtube.com/watch?v=d3zTfXvYZ9s){:target="_blank" rel="noopener noreferrer"}
