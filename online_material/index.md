@@ -12,6 +12,7 @@ title: Online Material
 The Royal Institute of Great Britan has a [series of talks and interviews with experts on black holes](https://www.rigb.org/explore-science/explore/blog/11-mind-blowing-talks-about-black-holes){:target="_blank" rel="noopener noreferrer"} (more on their [YouTube Channel](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR){:target="_blank" rel="noopener noreferrer"}). For instance, 
 - [The amazing talk by our friend Katy Clough](https://www.youtube.com/watch?v=n4RbkTCp16k&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=1){:target="_blank" rel="noopener noreferrer"} <span style="color:red; font-weight:bold;">(Highly recommended!!!)</span>
 - [The nobel prize Roger Penrose talks about black holes, geometry and Maurits C. Escher](https://www.youtube.com/watch?v=sYRti8ZU5s8&list=PLbnrZHfNEDZx9TYta68iHw8XiH35kmxYR&index=13){:target="_blank" rel="noopener noreferrer"}.
+- [Richard Feymann talks about the notion of time](https://www.youtube.com/watch?v=zUHtlXA1f-w){:target="_blank" rel="noopener noreferrer"} <span style="color:red; font-weight:bold;">(Highly recommended!!!)</span>
 
 Another particular intersting Channel is [Minute Physics](https://www.youtube.com/@MinutePhysics). For example, take a look at those short videos
 
