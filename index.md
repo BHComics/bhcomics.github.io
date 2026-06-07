@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Explaining Black Holes - A public outreach comics project
+title: Black Hole Comics
 ---
 
 **Exploring black holes through art and science**
