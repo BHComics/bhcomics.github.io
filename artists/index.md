@@ -39,7 +39,7 @@ title: The Artists (and the Scientists)
 
 <div class="seminar-card">
   <strong>Rodrigo Panosso Macedo </strong><br>
-</div
+</div>
 
 <div class="seminar-card">
   <strong> José Maria Ezquiaga </strong><br>
