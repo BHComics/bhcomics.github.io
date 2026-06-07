@@ -11,7 +11,7 @@ title: Events
 ## ⭐ <a href="https://the-center-of-gravity.com/features/black-hole-week-2026/" target="_blank">Black Hole Week (Copenhagen - August 2026)</a>
 
 <div class="bib-card">
-<strong>Book Launch</strong> (Chris Ferrie)  
+<strong>Book Launch</strong>
 📘 <a href="https://comicgarden.dk" target="_blank">Comic Garden</a>
 </div>
 
