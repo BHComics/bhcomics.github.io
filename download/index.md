@@ -5,10 +5,10 @@ title: Download
 
 # 📚 Black Hole Comics
 
-**Get your free online copy here **
+** Get your free online copy here **
 
 
-**Or with our friends **
+** Or with our friends **
 
 ## Center of Gravity
 
