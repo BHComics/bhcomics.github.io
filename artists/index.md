@@ -6,33 +6,35 @@ title: The Artists (and the Scientists)
 
 ---
 
+
+
 <div class="seminar-card">
-  <strong>Anna Helminen </strong><br>
+  <strong> <a href="https://www.annahelminen.com" target="_blank">Anna Helminen</a> </strong><br>
 </div>
 
 <div class="seminar-card">
-  <strong>Giorgina Walther </strong><br>
+  <strong> <a href="https://www.instagram.com/corricellaa" target="_blank">Giorgina Walther</a>  </strong><br>
 </div>
 
 <div class="seminar-card">
-  <strong>Leonor Silva </strong><br>
+  <strong> <a href="https://liionor.my.canva.site" target="_blank">Leonor Silva</a> </strong><br>
 </div>
 
 <div class="seminar-card">
-  <strong>Pelle Dietmer </strong><br>
+  <strong> <a href="https://www.instagram.com/pelleditmer" target="_blank">Pelle Dietmer</a> </strong><br>
 </div>
 
 <div class="seminar-card">
-  <strong>Freja Ytting </strong><br>
+  <strong> <a href="https://frejaytting.myportfolio.com" target="_blank">Freja Ytting</a> </strong><br>
 </div>
 
 <div class="seminar-card">
-  <strong>Wania Nowosielska </strong><br>
+  <strong> <a href="https://www.instagram.com/waniuszek" target="_blank">Wania Nowosielska</a> </strong><br>
 </div>
 
 
 <div class="seminar-card">
-  <strong>Cecil Castellucci </strong><br>
+  <strong> <a href="https://www.cecilcastellucci.com" target="_blank">Cecil Castellucci</a> </strong><br>
 </div>
 
 # 🪐 Our Scientists
