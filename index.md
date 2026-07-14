@@ -3,12 +3,29 @@ layout: default
 title: Black Hole Comics
 ---
 
-**Exploring black holes through art and science**
+# 📅 Events
 
-Welcome to the **Black Holes Comics** initiative
+**Meet the artists, the scientist or see the project live at**  
 
-Have you ever wondered what black holes are? We physicists do - every day! Using math, we try to decipher nature’s secrets, but equations and words alone can’t capture their full wonder. We need creative visual narratives. This project joins scientists from the Niels Bohr Institute and artists from VIA’s Graphic Storytelling Program to bring black hole science into life as comics and graphic novels.
+---
+## ⭐ <a href="https://the-center-of-gravity.com/features/black-hole-week-2026/" target="_blank">Black Hole Week (Copenhagen - August 2026)</a>
 
-<p align="center">
-  <img src="images/IMG_1130.png" alt="BH Comics" width="200">
-</p>
+<div class="bib-card">
+<strong>Book Launch</strong>
+📘 <a href="https://comicgarden.dk" target="_blank">Comic Garden</a>
+</div>
+
+---
+
+<style>
+.bib-card {
+  background-color: rgba(255,255,255,0.4);
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  border: 1px solid rgba(0,0,0,0.05);
+}
+.bib-card a {
+  text-decoration: none;
+}
+</style>
