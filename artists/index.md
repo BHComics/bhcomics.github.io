@@ -15,7 +15,7 @@ title: The Artists (and the Scientists)
 
 <div class="seminar-card">
   <img src="/images/artists/giorgina_walther.png" alt="Giorgina Walther" class="artist-face">
-  <strong> <a href="https://www.instagram.com/corricellaa" target="_blank">Giorgina Walther</a>  </strong><br>
+  <strong> <a href="https://giorginawalther.my.canva.site/portfolio-website/" target="_blank">Giorgina Walther</a>  </strong><br>
 </div>
 
 <div class="seminar-card">
