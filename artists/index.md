@@ -53,7 +53,7 @@ title: The Artists (and the Scientists)
 
 <div class="seminar-card">
   <img src="/images/artists/jose_ezquiaga.png" alt="José Maria Ezquiaga" class="artist-face">
-  <strong> José Maria Ezquiaga </strong><br>
+  <strong> <a href="https://ezquiaga.github.io/index.html" target="_blank">José Maria Ezquiaga</a> </strong><br>
 </div>
 
 ---
