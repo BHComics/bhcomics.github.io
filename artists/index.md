@@ -48,7 +48,7 @@ title: The Artists (and the Scientists)
 
 <div class="seminar-card">
   <img src="/images/artists/rodrigo_panosso_macedo.png" alt="Rodrigo Panosso Macedo" class="artist-face">
-  <strong>Rodrigo Panosso Macedo </strong><br>
+  <strong> <a href="https://hyperboloid.al" target="_blank">Rodrigo Panosso Macedo</a> </strong><br>
 </div>
 
 <div class="seminar-card">
