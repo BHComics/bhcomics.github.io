@@ -5,12 +5,4 @@ title: Download
 
 # 📚 Black Hole Comics
 
-**Get your free online copy here**
-
-
-**Or with our friends**
-
-## Center of Gravity
-
-## Hyperboloidal Research Network
-
+**Available from 22 August 2026 — get your free copy here!**
