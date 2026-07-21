@@ -40,16 +40,19 @@ title: The Artists (and the Scientists)
 
 
 <div class="seminar-card">
+  <img src="/images/artists/cecil_castellucci.png" alt="Cecil Castellucci" class="artist-face">
   <strong> <a href="https://www.cecilcastellucci.com" target="_blank">Cecil Castellucci</a> </strong><br>
 </div>
 
 # 🪐 Our Scientists
 
 <div class="seminar-card">
+  <img src="/images/artists/rodrigo_panosso_macedo.png" alt="Rodrigo Panosso Macedo" class="artist-face">
   <strong>Rodrigo Panosso Macedo </strong><br>
 </div>
 
 <div class="seminar-card">
+  <img src="/images/artists/jose_ezquiaga.png" alt="José Maria Ezquiaga" class="artist-face">
   <strong> José Maria Ezquiaga </strong><br>
 </div>
 
