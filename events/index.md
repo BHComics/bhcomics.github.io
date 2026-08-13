@@ -17,6 +17,7 @@ title: Events
         <span class="date">20 – 31 August</span>
         <h3>Story Posters on Display</h3>
         <p>Kongens Nytorv, Copenhagen — walk the full stories as large-format posters, open to the public all week.</p>
+        <a href="https://visitcopenhagen.cruncho.co/en-GB/place/JdVPpj/BlackHoleWeek?origin=%2F%3F" target="_blank" class="link">Visit Copenhagen →</a>
       </div>
       <div class="event-card">
         <a href="https://the-center-of-gravity.com/features/black-hole-week-2026/" target="_blank" rel="noopener noreferrer" class="event-tag">Black Hole Week 2026</a>
@@ -28,3 +29,5 @@ title: Events
     </div>
   </div>
 </section>
+
+
