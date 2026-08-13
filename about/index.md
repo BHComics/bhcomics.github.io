@@ -26,7 +26,7 @@ Rodrigo Panosso Macedo has been able to merge his long-standing passion for comi
 <div class="about-grid">
   <div class="about-portrait">
     <img src="/images/IMG_1130.png" alt="Illustrated portraits of Rodrigo, Jose, and Cecil" class="editor-portrait">
-    <p class="photo-credit">Portraits of Jose, Cecil and Rodrigo by Mads Ellegard Skovbakke.</p>
+    <p class="photo-credit">Portraits of Jose, Cecil and Rodrigo by <a href="https://madsskovbakke.mystrikingly.com" target="_blank" rel="noopener noreferrer">Mads Ellegard Skovbakke</a>.</p>
   </div>
   <div class="credits-card">
     <h3>With thanks to</h3>
