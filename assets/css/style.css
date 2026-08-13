@@ -538,8 +538,8 @@ footer .contact a { color: var(--gold-soft); text-decoration: none; }
   justify-content: center;
   margin-bottom: 22px;
 }
-.sponsor-primary .logo-chip { padding: 2px; }
-.sponsor-primary .logo-chip img { height: 90px; width: auto; }
+.sponsor-primary .logo-chip { padding: 12px 16px; }
+.sponsor-primary .logo-chip img { height: 66px; width: auto; }
 .sponsor-secondary {
   display: flex;
   justify-content: center;
