@@ -44,14 +44,10 @@ title: The Artists (and the Scientists)
     <strong><a href="https://www.instagram.com/waniuszek" target="_blank">Wania Nowosielska</a></strong>
     <span>Artist</span>
   </div>
-  <div class="pcard">
-    <div class="ring"><div class="hole"><img src="/images/artists/cecil_castellucci.png" alt="Cecil Castellucci"></div></div>
-    <strong><a href="https://www.cecilcastellucci.com" target="_blank">Cecil Castellucci</a></strong>
-    <span>Author</span>
-  </div>
 </div>
 
-<h2>🪐 Our Scientists</h2>
+<h2>🪐 Our Editors</h2>
+
 
 <div class="people-grid">
   <div class="pcard">
@@ -63,6 +59,11 @@ title: The Artists (and the Scientists)
     <div class="ring"><div class="hole"><img src="/images/artists/jose_ezquiaga.png" alt="José Maria Ezquiaga"></div></div>
     <strong><a href="https://ezquiaga.github.io/index.html" target="_blank">José Maria Ezquiaga</a></strong>
     <span>Scientist</span>
+  </div>
+  <div class="pcard">
+    <div class="ring"><div class="hole"><img src="/images/artists/cecil_castellucci.png" alt="Cecil Castellucci"></div></div>
+    <strong><a href="https://www.cecilcastellucci.com" target="_blank">Cecil Castellucci</a></strong>
+    <span>Editor</span>
   </div>
 </div>
 
