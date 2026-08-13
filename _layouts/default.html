@@ -20,6 +20,7 @@
         <nav class="links">
           <a href="/"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
           <a href="/download/"{% if page.url == '/download/' %} class="active"{% endif %}>Download</a>
+          <a href="/events/"{% if page.url == '/events/' %} class="active"{% endif %}>Events</a>
           <a href="/artists/"{% if page.url == '/artists/' %} class="active"{% endif %}>Artists</a>
           <a href="/about/"{% if page.url == '/about/' %} class="active"{% endif %}>About</a>
         </nav>
@@ -36,15 +37,21 @@
         📬 Contact us:
         <a href="mailto:blackholecomicproject@gmail.com">blackholecomicproject@gmail.com</a>
       </div>
-      <div class="sponsor-row">
-        <a href="https://www.carlsbergfondet.dk/en/what-we-have-funded/cm25-0287/" target="_blank" rel="noopener noreferrer">
-          <img src="/images/Carlsberg-Mindelegat-Green-RGB-DK.png" alt="Carlsberg Foundation" style="height:70px;">
+      <div class="sponsor-primary">
+        <a href="https://www.carlsbergfondet.dk/en/what-we-have-funded/cm25-0287/" target="_blank" rel="noopener noreferrer" class="logo-chip">
+          <img src="/images/footer/carlsberg.png" alt="Carlsberg Mindelegat">
         </a>
-        <img src="/images/Villum_fonden_logo.png" alt="Villum Fonden" style="height:38px;">
-        <a href="https://hyperboloid.al/" target="_blank" rel="noopener noreferrer">
-          <img src="/images/hyperboloidal_transparent.png" alt="Hyperboloidal Research Network" style="height:52px;">
+      </div>
+      <div class="sponsor-secondary">
+        <div class="logo-chip">
+          <img src="/images/footer/villum.png" alt="Villum Fonden">
+        </div>
+        <a href="https://hyperboloid.al/" target="_blank" rel="noopener noreferrer" class="logo-chip">
+          <img src="/images/footer/hyperboloidal.png" alt="Hyperboloidal Research Network">
         </a>
-        <img src="/images/QUEBipr_1920x1080-trans.png" alt="Québec" style="height:32px; opacity:0.85;">
+        <div class="logo-chip">
+          <img src="/images/footer/quebec.png" alt="Québec">
+        </div>
       </div>
     </footer>
 
