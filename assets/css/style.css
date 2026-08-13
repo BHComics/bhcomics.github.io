@@ -369,8 +369,12 @@ section { padding: 90px 24px; }
 /* PEOPLE / ARTIST RING CARDS */
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 22px 16px;
+  grid-template-columns: repeat(3, minmax(150px, 190px));
+  justify-content: center;
+  gap: 32px 40px;
+}
+@media (max-width: 560px) {
+  .people-grid { grid-template-columns: repeat(2, minmax(130px, 170px)); gap: 28px 24px; }
 }
 .pcard { text-align: center; }
 .pcard .ring {
