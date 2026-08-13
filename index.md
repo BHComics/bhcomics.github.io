@@ -12,7 +12,7 @@ title: Black Hole Comics
       <p>A free public-outreach comic book pairing physicists from the Niels Bohr Institute with graphic storytellers from The Animation Workshop — turning black hole and gravitational wave physics into six wildly different visual stories.</p>
       <div class="hero-ctas">
         <a href="/download/" class="btn btn-primary">Get the free book →</a>
-        <a href="/events/" class="btn btn-ghost">Meet us</a>
+        <a href="/events/" class="btn btn-primary">Come and say hi →</a>
       </div>
     </div>
     <div class="hero-art">

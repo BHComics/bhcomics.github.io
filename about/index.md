@@ -14,6 +14,11 @@ title: About
 
 <p>The collaboration began in Fall 2025 with a series of micro lectures over the following few months to learn about different aspects of black holes and gravitational waves. The students' minds expanded and there were questions galore, deep diving answers, spirited conversations, unspooling of big ideas and concepts, and trying not to be frightened of the math! Students then set off to write and craft mini comics to explain those ideas in a simple way that the public could understand. The collaboration was a real back and forth between everyone involved, and a true learning experience for all.</p>
 
+<p>
+The project has been possible thanks to the support of the Carlsberg Mindelegat. By securing this grant,
+Rodrigo Panosso Macedo has been able to merge his long-standing passion for comic books with the fascinating world of spacetime and black hole physics.
+</p>
+
 <p>The result is what you see here. We hope that you enjoy reading and learning about black holes and that it sparks your interest to investigate the topic on your own!</p>
 
 </div>
