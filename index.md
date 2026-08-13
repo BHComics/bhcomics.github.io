@@ -63,7 +63,7 @@ title: Black Hole Comics
 
       <div class="gcard"><span class="tag">Story 06</span>
         <img src="/images/showcase/wania-nowosielska.jpg" alt="Falling toward a black hole, art by Wania Nowosielska">
-        <div class="overlay"><div class="meta"><strong>Wania Nowosielska</strong><span>Cover art &amp; opening story</span></div></div>
+        <div class="overlay"><div class="meta"><strong>Wania Nowosielska</strong><span>Spacetime Curvature</span></div></div>
       </div>
 
     </div>
