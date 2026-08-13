@@ -21,7 +21,7 @@ title: About
 <div class="about-grid">
   <div class="about-portrait">
     <img src="/images/IMG_1130.png" alt="Illustrated portraits of Rodrigo, Jose, and Cecil" class="editor-portrait">
-    <p class="photo-credit">Portraits of Rodrigo, Jose, and Cecil by Mads Ellegard Skovbakke.</p>
+    <p class="photo-credit">Portraits of Jose, Cecil and Rodrigo by Mads Ellegard Skovbakke.</p>
   </div>
   <div class="credits-card">
     <h3>With thanks to</h3>
