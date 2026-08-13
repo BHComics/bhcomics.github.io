@@ -348,11 +348,17 @@ section { padding: 90px 24px; }
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  text-decoration: none;
   color: var(--pink-soft);
   border: 1px solid rgba(224, 85, 155, 0.4);
   padding: 4px 10px;
   border-radius: 999px;
   margin: 0 0 10px;
+  transition: background-color .18s ease, color .18s ease;
+}
+.event-card .event-tag:hover {
+  background: var(--pink-soft);
+  color: var(--navy-950);
 }
 .event-card h3 { margin: 0 0 8px; font-size: 20px; color: var(--cream); }
 .event-card p { margin: 0; color: var(--cream-dim); font-size: 14.5px; }
