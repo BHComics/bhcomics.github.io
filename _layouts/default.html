@@ -17,7 +17,10 @@
     <header class="site-header">
       <div class="nav-wrap">
         <a href="/" class="brand"><span class="mark"></span> Black Hole Comics</a>
-        <nav class="links">
+        <button class="nav-toggle" id="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
+          <span></span><span></span><span></span>
+        </button>
+        <nav class="links" id="site-nav">
           <a href="/"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
           <a href="/download/"{% if page.url == '/download/' %} class="active"{% endif %}>Download</a>
           <a href="/events/"{% if page.url == '/events/' %} class="active"{% endif %}>Events</a>
@@ -61,6 +64,27 @@
         </a>
       </div>
     </footer>
+
+    <script>
+      (function () {
+        var toggle = document.getElementById('nav-toggle');
+        var nav = document.getElementById('site-nav');
+        if (!toggle || !nav) return;
+
+        function setOpen(open) {
+          nav.classList.toggle('is-open', open);
+          toggle.classList.toggle('is-open', open);
+          toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        }
+
+        toggle.addEventListener('click', function () {
+          setOpen(!nav.classList.contains('is-open'));
+        });
+        nav.querySelectorAll('a').forEach(function (a) {
+          a.addEventListener('click', function () { setOpen(false); });
+        });
+      })();
+    </script>
 
   </body>
 </html>
