@@ -549,12 +549,16 @@ footer .contact a { color: var(--gold-soft); text-decoration: none; }
 }
 .sponsor-secondary .logo-chip { padding: 8px 12px; }
 .sponsor-secondary .logo-chip img { height: 34px; width: auto; }
-.logo-chip-text { gap: 9px; padding: 8px 14px !important; }
-.logo-chip-text img { height: 26px !important; width: auto; }
+.logo-chip-text {
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px 16px !important;
+}
+.logo-chip-text img { height: 18px !important; width: auto; }
 .logo-chip-text span {
   font-family: 'Work Sans', sans-serif;
   font-weight: 700;
-  font-size: 15px;
+  font-size: 14px;
   letter-spacing: 0.01em;
   color: var(--navy-800);
   white-space: nowrap;
