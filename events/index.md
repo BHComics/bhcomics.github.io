@@ -23,7 +23,7 @@ title: Events
         <a href="https://the-center-of-gravity.com/features/black-hole-week-2026/" target="_blank" rel="noopener noreferrer" class="event-tag">Black Hole Week 2026</a>
         <span class="date">22 August · 17:00</span>
         <h3>Book Launch at Comic Garden</h3>
-        <p>Pick up your free copy and join a panel discussion with the scientists and artists behind the book.</p>
+        <p>Join our premier in a panel discussion with the scientists and artists behind the book.</p>
         <a href="https://comicgarden.dk" target="_blank" class="link">Comic Garden details →</a>
       </div>
     </div>
