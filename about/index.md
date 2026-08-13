@@ -8,8 +8,7 @@ title: About
 <span class="kicker">The Project</span>
 <h1>Exploring black holes through art and science</h1>
 
-<div class="about-grid">
-  <div class="about-prose">
+<div class="about-prose">
 
 <p>The Black Hole Comic Project joins scientists from the Niels Bohr Institute and artists from VIA's Graphic Storytelling Program at The Animation Workshop in Viborg to bring black hole science to life as comics.</p>
 
@@ -17,9 +16,12 @@ title: About
 
 <p>The result is what you see here. We hope that you enjoy reading and learning about black holes and that it sparks your interest to investigate the topic on your own!</p>
 
-<img src="/images/IMG_1130.png" alt="Illustrated portraits of Rodrigo, Jose, and Cecil" class="editor-portrait">
-<p class="photo-credit">Portraits of Rodrigo, Jose, and Cecil by Mads Ellegard Skovbakke.</p>
+</div>
 
+<div class="about-grid">
+  <div class="about-portrait">
+    <img src="/images/IMG_1130.png" alt="Illustrated portraits of Rodrigo, Jose, and Cecil" class="editor-portrait">
+    <p class="photo-credit">Portraits of Rodrigo, Jose, and Cecil by Mads Ellegard Skovbakke.</p>
   </div>
   <div class="credits-card">
     <h3>With thanks to</h3>
