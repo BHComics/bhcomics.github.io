@@ -7,13 +7,12 @@ title: Black Hole Comics
   <div class="hero-stars"></div>
   <div class="hero-inner">
     <div class="hero-copy">
-      <span class="eyebrow">Black Hole Week · Copenhagen 2026</span>
+      <span class="eyebrow">Black Hole Comic Book Project</span>
       <h1>Six artists.<br><span>One event horizon.</span></h1>
-      <p>A free public-outreach comic book pairing physicists from the Niels Bohr Institute with graphic storytellers from The Animation Workshop — turning general relativity into six wildly different visual stories.</p>
+      <p>A free public-outreach comic book pairing physicists from the Niels Bohr Institute with graphic storytellers from The Animation Workshop — turning black hole and gravitational wave physics into six wildly different visual stories.</p>
       <div class="hero-ctas">
         <a href="/download/" class="btn btn-primary">Get the free book →</a>
-        <a href="#showcase" class="btn btn-ghost">See the artwork</a>
-        <a href="/events/" class="btn btn-ghost">Where to find the book</a>
+        <a href="/events/" class="btn btn-ghost">Meet us</a>
       </div>
     </div>
     <div class="hero-art">
