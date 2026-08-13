@@ -554,11 +554,11 @@ footer .contact a { color: var(--gold-soft); text-decoration: none; }
   gap: 5px;
   padding: 10px 16px !important;
 }
-.logo-chip-text img { height: 18px !important; width: auto; }
+.logo-chip-text img { height: 40px !important; width: auto; }
 .logo-chip-text span {
   font-family: 'Work Sans', sans-serif;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 11px;
   letter-spacing: 0.01em;
   color: var(--navy-800);
   white-space: nowrap;
