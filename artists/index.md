@@ -30,8 +30,8 @@ title: The Artists (and the Scientists)
     <span>Artist</span>
   </div>
   <div class="pcard">
-    <div class="ring"><div class="hole"><img src="/images/artists/pelle_dietmer.png" alt="Pelle Dietmer"></div></div>
-    <strong><a href="https://www.instagram.com/pelleditmer" target="_blank">Pelle Dietmer</a></strong>
+    <div class="ring"><div class="hole"><img src="/images/artists/pelle_ditmer.png" alt="Pelle Ditmer"></div></div>
+    <strong><a href="https://www.instagram.com/pelleditmer" target="_blank">Pelle Ditmer</a></strong>
     <span>Artist</span>
   </div>
   <div class="pcard">

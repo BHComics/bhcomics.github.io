@@ -52,8 +52,8 @@ title: Black Hole Comics
       </div>
 
       <div class="gcard"><span class="tag">Story 04</span>
-        <img src="/images/showcase/pelle-dietmer.jpg" alt="Black hole illustration in warm colours, art by Pelle Dietmer">
-        <div class="overlay"><div class="meta"><strong>Pelle Dietmer</strong><span>Black Pearls</span></div></div>
+        <img src="/images/showcase/pelle-ditmer.jpg" alt="Black hole illustration in warm colours, art by Pelle Ditmer">
+        <div class="overlay"><div class="meta"><strong>Pelle Ditmer</strong><span>Black Pearls</span></div></div>
       </div>
 
       <div class="gcard"><span class="tag">Story 05</span>
