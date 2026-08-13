@@ -3,6 +3,11 @@ layout: default
 title: Download
 ---
 
-# 📚 Black Hole Comics
+<div class="page-content">
 
-**Available from 22 August 2026 — get your free copy here!**
+<span class="kicker">The Book</span>
+<h1>📚 Black Hole Comics</h1>
+
+<p><strong>Available from 22 August 2026 — get your free copy here!</strong></p>
+
+</div>

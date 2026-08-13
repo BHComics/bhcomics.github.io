@@ -7,90 +7,46 @@
 
     <title>{{ page.title | default: site.title }}</title>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;900&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
 
   <body>
 
-    <!-- YOUR CUSTOM HEADER HERE -->
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title }}</h1>
-      <h2 class="project-tagline">{{ site.description }}</h2>
-
-
-
-      <nav class="nav-links">
-        <a href="/" class="nav-button">Home</a>
-        <a href="/download/" class="nav-button">Download</a>
-        <a href="/artists/" class="nav-button">Artists</a>
-        <a href="/about/" class="nav-button">About</a>
-      </nav>
+    <header class="site-header">
+      <div class="nav-wrap">
+        <a href="/" class="brand"><span class="mark"></span> Black Hole Comics</a>
+        <nav class="links">
+          <a href="/"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+          <a href="/download/"{% if page.url == '/download/' %} class="active"{% endif %}>Download</a>
+          <a href="/artists/"{% if page.url == '/artists/' %} class="active"{% endif %}>Artists</a>
+          <a href="/about/"{% if page.url == '/about/' %} class="active"{% endif %}>About</a>
+        </nav>
+      </div>
     </header>
 
-    <style>
-      .nav-links {
-        margin-top: 20px;
-      }
-      .nav-button {
-        display: inline-block;
-        padding: 8px 18px;
-        margin: 4px;
-        font-size: 16px;
-        border-radius: 6px;
-        text-decoration: none;
-        color: white;
-        background-color: rgba(255, 255, 255, 0.15);
-        border: 1px solid rgba(255, 255, 255, 0.2);
-        transition: background-color 0.2s, box-shadow 0.2s;
-      }
-      .nav-button:hover {
-        background-color: rgba(255, 255, 255, 0.3);
-        box-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
-      }
-    </style>
-
-    <main id="content" class="main-content" role="main">
+    <main id="content">
       {{ content }}
     </main>
 
-<footer class="site-footer">
-  <div style="text-align:center; margin-top:20px;">
-
-    📬 Contact us:
-    <a href="mailto:blackholecomicproject@gmail.com">
-      blackholecomicproject@gmail.com
-    </a>
-
-    <div style="margin-top:20px;">
-
-      <a href="https://www.carlsbergfondet.dk/en/what-we-have-funded/cm25-0287/"
-         target="_blank"
-         rel="noopener noreferrer">
-        <img src="/images/Carlsberg-Mindelegat-Green-RGB-DK.png"
-             alt="Carlsberg Foundation"
-             style="height:90px; margin:0 15px; vertical-align:middle;">
-      </a>
-
-      <img src="/images/Villum_fonden_logo.png"
-           alt="Villum Fonden"
-           style="height:45px; margin:0 15px; vertical-align:middle;">
-
-      <a href="https://hyperboloid.al/"
-         target="_blank"
-         rel="noopener noreferrer">
-        <img src="/images/hyperboloidal_transparent.png"
-             alt="Hyperboloidal Research Network"
-             style="height:65px; margin:0 15px; vertical-align:middle;">
-      </a>
-
-      <img src="/images/QUEBipr_1920x1080-trans.png"
-           alt="Québec"
-           style="height:40px; margin:0 15px; vertical-align:middle; opacity:0.85;">
-
-    </div>
-
-  </div>
-</footer>
+    <footer>
+      <div class="divider-motif">✦ ✦ ✦</div>
+      <div class="contact">
+        📬 Contact us:
+        <a href="mailto:blackholecomicproject@gmail.com">blackholecomicproject@gmail.com</a>
+      </div>
+      <div class="sponsor-row">
+        <a href="https://www.carlsbergfondet.dk/en/what-we-have-funded/cm25-0287/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/Carlsberg-Mindelegat-Green-RGB-DK.png" alt="Carlsberg Foundation" style="height:70px;">
+        </a>
+        <img src="/images/Villum_fonden_logo.png" alt="Villum Fonden" style="height:38px;">
+        <a href="https://hyperboloid.al/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/hyperboloidal_transparent.png" alt="Hyperboloidal Research Network" style="height:52px;">
+        </a>
+        <img src="/images/QUEBipr_1920x1080-trans.png" alt="Québec" style="height:32px; opacity:0.85;">
+      </div>
+    </footer>
 
   </body>
 </html>
