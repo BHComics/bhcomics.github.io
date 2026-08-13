@@ -536,6 +536,9 @@ footer .contact a { color: var(--gold-soft); text-decoration: none; }
 .sponsor-primary {
   display: flex;
   justify-content: center;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
   margin-bottom: 22px;
 }
 .sponsor-primary .logo-chip { padding: 9px 12px; }
