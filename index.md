@@ -7,7 +7,7 @@ title: Black Hole Comics
   <div class="hero-stars"></div>
   <div class="hero-inner">
     <div class="hero-copy">
-      <span class="eyebrow">Black Hole Comic Book Project</span>
+      <span class="eyebrow">Black Hole Comics Project</span>
       <h1>Six artists.<br><span>One event horizon.</span></h1>
       <p>A free public-outreach comic book pairing physicists from the Niels Bohr Institute with graphic storytellers from The Animation Workshop — turning black hole and gravitational wave physics into six wildly different visual stories.</p>
       <div class="hero-ctas">
