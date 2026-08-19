@@ -528,50 +528,50 @@ section { padding: 90px 24px; }
 .page-content strong { color: var(--cream); }
 .page-content a { text-decoration: underline; text-decoration-color: rgba(232, 184, 75, 0.4); }
 .page-content a:hover { text-decoration-color: var(--gold-soft); }
+.page-content .btn { text-decoration: none; }
 
-.countdown {
+.download-card {
   display: flex;
-  gap: 16px;
-  flex-wrap: wrap;
-  margin: 32px 0 12px;
-}
-.countdown-unit {
+  align-items: center;
+  gap: 32px;
   background: linear-gradient(160deg, var(--navy-800), var(--navy-900));
   border: 1px solid rgba(232, 184, 75, 0.22);
-  border-radius: 14px;
-  padding: 18px 22px;
-  text-align: center;
-  min-width: 84px;
+  border-radius: 18px;
+  padding: 32px;
+  margin: 32px 0;
 }
-.countdown-unit .num {
-  display: block;
-  font-family: 'Cinzel', serif;
-  font-weight: 700;
-  font-size: clamp(26px, 5vw, 38px);
-  line-height: 1;
-  color: var(--gold-soft);
-  font-variant-numeric: tabular-nums;
+.download-cover {
+  flex-shrink: 0;
+  width: 160px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.45), 0 0 0 1px rgba(232, 184, 75, 0.3);
 }
-.countdown-unit .unit-label {
-  display: block;
-  margin-top: 8px;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--cream-dim);
-}
-.countdown-caption {
-  font-size: 13px;
-  color: var(--cream-dim);
-  margin: 0;
-}
-.countdown-done {
-  display: none;
-  font-family: 'Cinzel', serif;
+.download-cover img { display: block; width: 100%; height: auto; }
+.download-info h2 {
   font-size: clamp(20px, 3vw, 26px);
-  color: var(--gold-soft);
-  margin: 32px 0 12px;
+  margin: 0 0 10px;
+  color: var(--cream);
+}
+.download-info p {
+  margin: 0 0 22px;
+  color: var(--cream-dim);
+  font-size: 15px;
+  max-width: 46ch;
+}
+.download-meta {
+  display: inline-block;
+  margin-left: 14px;
+  font-size: 12.5px;
+  color: var(--cream-dim);
+  opacity: 0.75;
+}
+
+@media (max-width: 560px) {
+  .download-card { flex-direction: column; text-align: center; padding: 28px 24px; }
+  .download-cover { width: 180px; }
+  .download-info p { max-width: none; }
+  .download-meta { display: block; margin: 12px 0 0; }
 }
 
 .bib-card {
