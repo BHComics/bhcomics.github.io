@@ -19,11 +19,13 @@ title: Download
     <p>Six artists, six stories, one event horizon — the full book, free to read and free to share.</p>
     <div class="download-actions">
       <div class="download-action">
-        <a href="/books/BlackHoleComicBook.pdf" class="btn btn-primary" download>Download the PDF →</a>
+        <a href="/books/BlackHoleComicBook.pdf" class="btn btn-primary" download
+           data-goatcounter-click="download-pdf">Download the PDF →</a>
         <span class="download-meta">PDF · ~26 MB</span>
       </div>
       <div class="download-action">
-        <a href="/books/BlackHoleComicBook.epub" class="btn btn-ghost" download>Download the EPUB →</a>
+        <a href="/books/BlackHoleComicBook.epub" class="btn btn-primary" download
+           data-goatcounter-click="download-epub">Download the EPUB →</a>
         <span class="download-meta">EPUB · ~19 MB</span>
       </div>
     </div>
