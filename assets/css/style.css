@@ -559,9 +559,19 @@ section { padding: 90px 24px; }
   font-size: 15px;
   max-width: 46ch;
 }
+.download-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 22px;
+}
+.download-action {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
 .download-meta {
   display: inline-block;
-  margin-left: 14px;
   font-size: 12.5px;
   color: var(--cream-dim);
   opacity: 0.75;
@@ -571,7 +581,8 @@ section { padding: 90px 24px; }
   .download-card { flex-direction: column; text-align: center; padding: 28px 24px; }
   .download-cover { width: 180px; }
   .download-info p { max-width: none; }
-  .download-meta { display: block; margin: 12px 0 0; }
+  .download-actions { flex-direction: column; align-items: center; gap: 18px; }
+  .download-action { flex-direction: column; gap: 8px; }
 }
 
 .bib-card {
