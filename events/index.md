@@ -12,6 +12,11 @@ title: Events
       </div>
     </div>
     <div class="events-grid">
+      <div class="event-card event-card--wide">
+        <span class="date">8 August · 17:00</span>
+        <h3>Graphic Storytelling Program Book Launch</h3>
+        <p>Tinghallen, Tingvej 20, 8800 Viborg — hosted by the Graphic Storytelling Program at The Animation Workshop.</p>
+      </div>
       <div class="event-card">
         <a href="https://the-center-of-gravity.com/features/black-hole-week-2026/" target="_blank" rel="noopener noreferrer" class="event-tag">Black Hole Week 2026</a>
         <span class="date">20 – 31 August</span>

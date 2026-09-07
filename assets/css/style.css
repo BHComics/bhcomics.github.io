@@ -339,6 +339,7 @@ section { padding: 90px 24px; }
 
 /* EVENTS */
 .events-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+.event-card.event-card--wide { grid-column: 1 / -1; }
 .event-card {
   background: linear-gradient(160deg, var(--navy-800), var(--navy-900));
   border: 1px solid rgba(232, 184, 75, 0.22);
