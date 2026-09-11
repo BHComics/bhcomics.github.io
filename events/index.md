@@ -16,6 +16,14 @@ title: Events
         <span class="date">8 August · 17:00</span>
         <h3>Graphic Storytelling Program Book Launch</h3>
         <p>Tinghallen, Tingvej 20, 8800 Viborg — hosted by the Graphic Storytelling Program at The Animation Workshop.</p>
+
+        <div class="photo-strip" tabindex="0" role="button" aria-label="See photos from the Graphic Storytelling Program Book Launch"
+             onclick="openLB('viborg')" onkeydown="if(event.key==='Enter')openLB('viborg')">
+          <img class="cover-img" src="/images/events/viborg/viborg-05.jpg" alt="Black Hole Comics book launch at Tinghallen, Viborg" style="object-position: center 34%;">
+          <div class="scrim"></div>
+          <div class="see-photos">See photos <span class="count">7</span></div>
+          <div class="stack-edge"></div>
+        </div>
       </div>
       <div class="event-card">
         <a href="https://the-center-of-gravity.com/features/black-hole-week-2026/" target="_blank" rel="noopener noreferrer" class="event-tag">Black Hole Week 2026</a>
@@ -80,6 +88,11 @@ title: Events
     launch: {
       count: 12, prefix: '/images/events/launch/launch-', pad: 2,
       alt: 'Photo from the Comic Garden book launch',
+      captions: []
+    },
+    viborg: {
+      count: 7, prefix: '/images/events/viborg/viborg-', pad: 2,
+      alt: 'Photo from the Graphic Storytelling Program Book Launch in Viborg',
       captions: []
     }
   };
